@@ -1,0 +1,36 @@
+WARN  09:58:52 No XML encryptor configured. Key {37226f50-1cdd-4a75-9095-c049d005904c} may be persisted to storage in unencrypted form.
+INFO  09:59:26 Now listening on: http://localhost:5000
+INFO  09:59:26 Now listening on: http://localhost:5000
+INFO  09:59:26 Application started. Press Ctrl+C to shut down.
+INFO  09:59:26 Application started. Press Ctrl+C to shut down.
+INFO  09:59:26 Hosting environment: Development
+INFO  09:59:26 Hosting environment: Development
+INFO  09:59:26 Content root path: /Users/arpitmandal/Downloads/AuthenticationMFPEFinal/PharmaSupplyAuthorizationApi
+INFO  09:59:26 Content root path: /Users/arpitmandal/Downloads/AuthenticationMFPEFinal/PharmaSupplyAuthorizationApi
+WARN  09:59:37 Failed to determine the https port for redirect.
+WARN  09:59:37 Failed to determine the https port for redirect.
+INFO  10:00:24 AuthenticationRepository constructor initiated.
+INFO  10:00:24 Authuserservice constructor initiated
+INFO  10:00:24 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  10:00:24 Token generation started
+INFO  10:00:24 User Credentials are correct.
+INFO  10:00:24 Token is generated successfully.
+INFO  10:00:24 Token string is returned to the Controller.
+INFO  10:00:24 Authorized User.
+INFO  10:00:30 AuthenticationRepository constructor initiated.
+INFO  10:00:30 Authuserservice constructor initiated
+INFO  10:00:30 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  10:00:30 Token generation started
+INFO  10:00:30 User Credentials are not correct so token cannot be generated.
+INFO  10:00:30 Token string is returned to the Controller.
+INFO  10:00:30 Unauthorized User.
+INFO  10:01:03 Application is shutting down...
+INFO  10:01:03 Application is shutting down...
+INFO  10:01:09 Now listening on: http://localhost:5000
+INFO  10:01:09 Now listening on: http://localhost:5000
+INFO  10:01:09 Application started. Press Ctrl+C to shut down.
+INFO  10:01:09 Application started. Press Ctrl+C to shut down.
+INFO  10:01:09 Hosting environment: Development
+INFO  10:01:09 Hosting environment: Development
+INFO  10:01:09 Content root path: /Users/arpitmandal/Downloads/AuthenticationMFPEFinal/PharmaSupplyAuthorizationApi
+INFO  10:01:09 Content root path: /Users/arpitmandal/Downloads/AuthenticationMFPEFinal/PharmaSupplyAuthorizationApi
